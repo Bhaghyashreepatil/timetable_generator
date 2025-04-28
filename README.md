@@ -11,7 +11,7 @@ This is a simple Flask web application that generates a timetable based on the n
 
 ## Requirements
 
-- Python 3.x
+- Python 
 - Flask (Python web framework)
 
 ## Setup
